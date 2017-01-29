@@ -11,7 +11,9 @@ The downloaded zip file contained two folders, train and test, each with three d
 The final table contains following variables: 
 * activity - name of the activity (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 * subject - ID of the subject
+
 and average of
+
 * tBodyAcc-mean()-X, tBodyAcc-mean()-Y, tBodyAcc-mean()-Z
 * tBodyAcc-std()-X, tBodyAcc-std()-Y, tBodyAcc-std()-Z               
 * tGravityAcc-mean()-X, tGravityAcc-mean()-Y, tGravityAcc-mean()-Z
